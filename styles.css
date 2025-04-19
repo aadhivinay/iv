@@ -1,0 +1,169 @@
+
+/* .text{
+  color: white;
+} */
+
+
+#carouselExampleIndicators{
+  text-align: center;
+  margin-left: 45px;
+  width: 90%;
+}
+.sec-1{
+  text-align: center;
+}
+.unicef-content{
+  text-align: center;
+  
+}
+.unicef-text
+{
+    padding:0 0 0 0;
+    color:rgb(135,206,235);
+    text-decoration:none;
+    text-align: center;
+    position: relative;
+
+}
+.unicef-text:hover
+{
+    color: rgb(135,206,235);
+    text-decoration: underline;
+}
+.container1{
+  text-align: center;
+  padding: 10px 20px ;
+  margin-top: 20px;
+}
+.container2{
+  text-align: center;
+  background-color: black;
+  padding:7% 15%;
+}
+.container3{
+  text-align: center;
+  background-color: black;
+  padding:7% 15%;
+
+
+}
+.container4{
+  text-align: center;
+  background-color: black;
+  padding:7% 15%;
+}
+
+
+.img1{
+  width: 80%;
+  right: 30%;
+
+text-align: center;
+}
+.img2{
+  width: 100%;
+}
+.img3{
+  width: 50%;
+
+}
+.img4{
+  width: 80%;
+  height: auto;
+  margin-top:5%;
+}
+.img5{
+  width: 90%;
+  height: auto;
+  margin-top:5%;
+
+}
+.img6{
+  width: 80%;
+  height: auto;
+  margin-top:5%;
+}
+.img7{
+  width:80%;
+  height: auto;
+  margin-top:5%;
+}
+.img8{
+  width: 75%;
+  height: auto;
+  margin-top:5%;
+
+}
+.img9{
+  width: 100%;
+  height: auto;
+  margin-top:5%;
+}
+.nav-item{
+  color:  white;
+}
+.nav-link {
+  color: white;
+}
+.move1{
+  margin-top: 2px;
+  margin-left: 5px;
+
+}
+.move2{
+  margin-top: 2px;
+  margin-left: 5px;
+}
+.move3{
+  margin-top: 2px;
+  margin-left: 5px;
+
+}
+.watch-link-item
+{
+    color: #1363DF;
+    font-size: large;
+    text-decoration: none;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+.watch-link-item:hover
+{
+    color:grey;
+    text-decoration:none;
+}
+.watch-link-item2{
+  color: #1363DF;
+  font-size: large;
+  text-decoration: none;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+.watch-link-item2:hover{
+  color:black;
+  text-decoration:dotted;
+}
+.alltext{
+  color:white;
+}
+.alltext:hover{
+  color:grey;
+}
+.content1{
+  color: grey;
+  margin-top: 10px;
+}
+.content1:hover{
+  color:#94B49F ;
+}
+
+.head6{
+  color: grey;
+}
+.head6:hover{
+  color: #94B49F;
+}
+.foot{
+  text-align: center;
+  margin: 20px 10px;
+}
